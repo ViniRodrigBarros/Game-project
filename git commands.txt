@@ -1,0 +1,8 @@
+#adicionar tudo que que não tem
+git add .
+
+#Versiona estes arquivos com a mensagem abaixo
+git commit -m "mensagem"
+
+#Empurra as alteracoes para o github
+git push
